@@ -1,0 +1,28 @@
+.area{
+width: 524px;
+border: 1px;
+box-sizing: border-box;
+border: 1px solid black;
+}
+
+.header{
+    height: 200px;
+}
+
+.middle{
+    height: 100px;
+}
+
+.footer{
+    height: 20px;
+}
+
+.header .img1{
+    width: 200px;
+    height: 200px;
+}
+
+.header .img2{
+    width: 300px;
+    height: 200px;
+}
