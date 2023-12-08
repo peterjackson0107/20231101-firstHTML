@@ -14,15 +14,15 @@ border: 1px solid black;
 }
 
 .footer{
-    height: 20px;
+    height: 50px;
 }
 
-.header .img1{
+.img1{
     width: 200px;
-    height: 200px;
+    height: 150px;
 }
 
-.header .img2{
-    width: 300px;
-    height: 200px;
+.img2{
+    width: 200px;
+    height: 150px;
 }
