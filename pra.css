@@ -1,28 +1,48 @@
+body{
+    width: 80vw;
+    height: 80vh;
+}
 .area{
-width: 524px;
-border: 1px;
-box-sizing: border-box;
-border: 1px solid black;
-}
-
-.header{
-    height: 200px;
-}
-
-.middle{
-    height: 100px;
-}
-
-.footer{
-    height: 50px;
+    width: 550px;
+    border: 1px;
+    box-sizing: border-box;
 }
 
 .img1{
     width: 200px;
-    height: 150px;
+    height: 200px;
+    border: 1px solid black;
 }
 
 .img2{
-    width: 200px;
-    height: 150px;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    margin-left: 24px;
+}
+
+.middle{
+    width: 535px;
+    height: 100px;
+    margin-top: 36px;
+    border: 1px solid black;
+}
+
+.footer{
+    width: 800px;
+    height: 50px;
+    margin-top: 36px;
+}
+
+.input{
+    width: 386px;
+    height: 20px;
+    border: 1px solid black;
+}
+
+.button{
+    width: 120px;
+    height: 20px;
+    border: 1px solid black;
+    margin-left: 18px;
 }
