@@ -1,15 +1,15 @@
 # 2023.11.01
 
-## 學習歷程進度
-
-* 第一次練習HTML基本排版
+## 網址
+https://peterjackson0107.github.io/20231101-firstHTMLPractice/
 
 ## 專案技術
 - HTML
 - CSS
 
-## 網址
-https://peterjackson0107.github.io/20231101-firstHTMLPractice/
+## 學習歷程進度
+
+* 第一次練習HTML基本排版
 
 ## 想法
 
