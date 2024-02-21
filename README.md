@@ -1,4 +1,4 @@
-# 2023.11.01 (第一次練習HTML基本排版) (初めてＨＴＭＬ練習)
+# 2023.11.01 (第一次練習HTML基本排版) (初めてHTML練習)
 
 ## 網址 (ウェブ)
 https://peterjackson0107.github.io/20231101-firstHTML/
