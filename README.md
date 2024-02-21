@@ -1,9 +1,9 @@
-# 2023.11.01
+# 2023.11.01 (第一次練習HTML基本排版) (初めてＨＴＭＬ練習)
 
-## 網址
+## 網址 (ウェブ)
 https://peterjackson0107.github.io/20231101-firstHTML/
 
-## 專案技術
+## 專案技術 (プログラミング言語)
 - HTML
 - CSS
 
@@ -23,11 +23,11 @@ https://peterjackson0107.github.io/20231101-firstHTML/
 
 * 可以先用**Figma**先做大致切版
 
-## 參考版面
+## 參考版面 (参考資料)
 ![image](https://github.com/peterjackson0107/20231101-firstHTMLPractice/assets/151004314/5ec3ff61-d59e-4093-8cae-8fbe9abf54dc)
 
 
-## 畫面
+## 畫面 (画面)
 * ィモウトめちゃ好きですから
 
 ![image](https://github.com/peterjackson0107/20231101-firstHTMLPractice/assets/151004314/e721f654-8642-4499-b3fb-d66af0b2ad42)
